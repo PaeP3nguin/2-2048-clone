@@ -1,4 +1,4 @@
-# 2048
+# 2
 A small clone of [2048](https://github.com/gabrielecirulli/2048), by Gabriele Cirulli.
 
 Made just for fun. [Play it here!](http://paep3nguin.github.io/2048)
