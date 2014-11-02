@@ -1,7 +1,7 @@
 # 2
 A small clone of [2048](https://github.com/gabrielecirulli/2048), by Gabriele Cirulli. Combine 2048 tiles until you get the 2 tile!
 
-Made just for fun. [Play it here!](http://paep3nguin.github.io/2048)
+Made just for fun. [Play it here!](http://paep3nguin.github.io/2-2048-clone/)
 
 ### Contributions
 
