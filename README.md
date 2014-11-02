@@ -14,7 +14,7 @@ Many thanks to [rayhaanj](https://github.com/rayhaanj), [Mechazawa](https://gith
 ### Screenshot
 
 <p align="center">
-  <img src="http://paep3nguin.github.io/2048/images/screenshot.png" alt="Screenshot"/>
+  <img src="http://paep3nguin.github.io/2-2048-clone/images/screenshot.png" alt="Screenshot"/>
 </p>
 
 ## License
